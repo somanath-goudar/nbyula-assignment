@@ -4,11 +4,10 @@
 Hi Team, Here is the completed assignment 1 where I have built an appointment scheduler where terraformers can schedule appointments with other terraformers. Below I have provided detailed information about how i planned and built this project.
 
 
-## 🔗 Link to Live Demo
+## [🔗 Link to Live Demo](https://nbyula-assignment-appointment.vercel.app/)
 Hosted on vercel
 
 [![portfolio](https://img.shields.io/badge/Live_Demo-000?style=for-the-badge)](https://nbyula-assignment-appointment.vercel.app/)
-
 
 
 ## Tech Stack
